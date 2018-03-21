@@ -1,8 +1,8 @@
 {
-  "name": " Vuetify_Firebase",
+  "name": "yt-devmeetup-vue",
   "version": "1.0.0",
-  "description": "A applicatin built with Vue + Vuetify + Firebase",
-  "author": "ericbli",
+  "description": "A dev meetup applicatin built with Vue + Vuetify + Firebase",
+  "author": "Maximilian Schwarzmüller <business@academind.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
@@ -11,7 +11,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "firebase": "^4.8.1",
+    "firebase": "^4.1.3",
     "vue": "^2.4.1",
     "vue-router": "^2.3.1",
     "vuetify": "^0.14.0",
